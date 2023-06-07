@@ -1,0 +1,10 @@
+.div1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:xx-large;
+    color: rgb(57, 98, 114);
+}
+img:hover{
+    -moz-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
